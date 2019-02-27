@@ -133,7 +133,7 @@ class Blockchain
         }
         return balance;
     }
-
+//check if this block is valid or not
     isValid(){
         for(let i= 1 ; i<this.chain.length ; i++){
             const currentBlock = this.chain[i];
