@@ -1,0 +1,12 @@
+this app is blockchain app that creates one plocke using proof of work . and make , sign and verify the transctions using public and private key
+
+to run this app please follow these steps:
+1- open the project folder in vs code
+2- open chainClient.js 
+3- open the terminal
+4- run this command in terminal nodemon chainClient.js
+5- open any browser from your own pc or any device in the network
+6- if you in the same pc search for localhost:3000
+   if you open in your phone or any other device get the IP address of the device you run the code in 
+   and search for [YOUR-IP-ADDRESS]:3000
+7- if you run correctly you must see your device ip wallet transfere 30 coin and the wallet became 70
